@@ -1,0 +1,1 @@
+aquí se mostrarán todos las extensiones instaladas de NeoVim
